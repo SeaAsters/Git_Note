@@ -1,2 +1,2 @@
 # Git_Note
-Some learning notes of git.
+学习git的一些笔记
